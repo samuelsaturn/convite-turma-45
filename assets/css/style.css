@@ -11,10 +11,14 @@ body {
 
 .teste {
     display: flex;
-    justify-content: start;
+    justify-content: end;
     margin-top: 400px;
     margin-left: 10px;
 }
+
+.teste [
+    
+]
 
 
 
