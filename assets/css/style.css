@@ -1,24 +1,30 @@
 body {
-    background-image: url(https://cdn1.dotesports.com/wp-content/uploads/sites/3/2020/09/22232458/among-us-halloween.jpg);
+    background-image: url(/assets/img/final_62507db951896f1c0e0db5f4_680378.gif);
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: 1400px 620px;
+    width: 100vw;
 }
 .tam {
-    width: 100vw;
-    height: 110vh;
+    
 }
 
 .teste {
     display: flex;
-    justify-content: end;
-    margin-top: 400px;
-    margin-left: 10px;
+    justify-content: space-between;
+    margin-top: 360px;
+    
+    
 }
 
-.teste [
+.ggg {
     
-]
+}
+
+.ttt {
+    margin-left: 100px;
+}
+
+
 
 
 
