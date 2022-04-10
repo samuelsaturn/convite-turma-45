@@ -16,6 +16,21 @@ body {
     margin-left: 100px;
 }
 
+@media (min-width: 200px) and (max-width: 768px) {
+    
+
+    body {
+        background-image: url(../img/ImagemConvite.jpg);
+        background-size: cover;
+    }
+
+    #naoAparecer #naoAparecer1 #naoAparecer3{display:none;}
+
+    .tamanho{
+        width: 100px;
+    }
+
+}
 
 
 
