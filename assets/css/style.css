@@ -1,20 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
 
 body {
-    background-image: url(/assets/img/final_62507db951896f1c0e0db5f4_680378.gif);
+    background-image: url(/assets/img/git\ principal.gif);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
+    overflow-y: hidden;
 }
 
 .teste {
     display: flex;
     justify-content: space-between;
-    margin-top: 55vh;
+    margin-top: 63vh;
 }
 
 .ml {
     margin-left: 300px;
 }
+
 
 .ttt {
     margin-left: 100px;
