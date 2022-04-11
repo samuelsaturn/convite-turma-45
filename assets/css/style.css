@@ -7,8 +7,12 @@ body {
 .teste {
     display: flex;
     justify-content: space-between;
-    margin-top: 60vh;
+    margin-top: 52vh;
     
+}
+
+.ml {
+    margin-left: 300px;
 }
 
 
@@ -28,6 +32,10 @@ body {
 
     .tamanho{
         width: 100px;
+    }
+
+    #textoSabotage {
+        display: none;
     }
 
 }
