@@ -4,6 +4,7 @@ body {
     background-image: url(/assets/img/final_62507db951896f1c0e0db5f4_680378.gif);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
+    overflow-y: hidden;
 }
 
 .teste {
