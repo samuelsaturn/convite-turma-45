@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+
 body {
     background-image: url(/assets/img/final_62507db951896f1c0e0db5f4_680378.gif);
     background-repeat: no-repeat;
@@ -7,22 +9,39 @@ body {
 .teste {
     display: flex;
     justify-content: space-between;
-    margin-top: 52vh;
-    
+    margin-top: 55vh;
 }
 
 .ml {
     margin-left: 300px;
 }
 
-
 .ttt {
     margin-left: 100px;
 }
 
+.top {
+    
+    position: relative;
+    top: -100px;
+    display: none;
+    display: block;
+}
+
+p {
+    font-family: 'Teko', sans-serif;
+    font-size: 2rem;
+    margin-right: 40px;
+    text-decoration: none;
+    color: white !important;
+    
+    text-shadow: 0 0 8px hsl(0 0% 100%/ 0.3, 0 0 32px 0, lightness) !important;
+}
+
+
+
 @media (min-width: 200px) and (max-width: 768px) {
     
-
     body {
         background-image: url(../img/ImagemConvite.jpg);
         background-size: cover;
@@ -38,9 +57,18 @@ body {
         display: none;
     }
 
+    #report {
+        justify-content: center !important;
+    }
+
+    .cell {
+        height: 200px;
+        width: 200px !important;
+    }
+
+    .teste {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 65vh;
+    }
 }
-
-
-
-
-
