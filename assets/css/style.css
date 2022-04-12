@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
 
 body {
-    background-image: url(/assets/img/git\ principal.gif);
+    background-image: url(/assets/img/gifOficial.gif);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     overflow-y: hidden;
@@ -45,7 +45,7 @@ p {
 @media (min-width: 200px) and (max-width: 768px) {
     
     body {
-        background-image: url(../img/ImagemConvite2.jpg);
+        background-image: url(../img/ImagemConvite3.jpg);
         background-size: cover;
     }
 
